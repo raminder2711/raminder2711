@@ -4,7 +4,7 @@
 
 I am always interested in learning new things and applying it to real scenarios.
 
-### Skills: MS EXCEL | SQL | R | Tabeau
+### Skills: MS Excel | SQL | R | Tableau
 
 - 🧑🏻‍💻 I’m currently working on Learning Data Analysis skills 
 - 💻 I’m currently learning SQL | R | Tableau 
