@@ -4,7 +4,7 @@
 
 I am always interested in learning new things and applying it to real scenarios.
 
-### Skills: SQL / R / Tabeau / Power BI
+### Skills: SQL / R / Tabeau / Tableau
 
 - 🧑🏻‍💻 I’m currently working on Learning Data Analysis skills 
 - 💻 I’m currently learning SQL | R | Power BI 
