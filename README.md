@@ -4,10 +4,10 @@
 
 I am always interested in learning new things and applying it to real scenarios.
 
-### Skills: SQL / R / Tabeau / Tableau
+### Skills: SQL / R / Tabeau
 
 - 🧑🏻‍💻 I’m currently working on Learning Data Analysis skills 
-- 💻 I’m currently learning SQL | R | Power BI 
+- 💻 I’m currently learning SQL | R | Tableau 
 - ✉️ How to reach me: raminder.singh2711@gmail.com 
 - 🧒🏻 Pronouns: He/Him
 
