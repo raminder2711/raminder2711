@@ -7,7 +7,7 @@ I am always interested in learning new things and applying it to real scenarios.
 ### Skills: MS Excel | SQL | R | Tableau
 
 - 🧑🏻‍💻 I have learned the Data Analysis skills 
-- 💻 I’m currently learning SQL | R | Tableau 
+- 💻 I possess skills in SQL | R | Tableau 
 - ✉️ How to reach me: raminder.singh2711@gmail.com 
 - 🧒🏻 Pronouns: He/Him
 
